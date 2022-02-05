@@ -59,10 +59,39 @@ This course is based on MATLAB. MIT students can run MATLAB on their own laptops
 Assessment
 ----------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Assignments (5 in total; equally weighted) | 80% |
-| Mini Quizzes (7 in total; equally weighted) | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments (5 in total; equally weighted)
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mini Quizzes (7 in total; equally weighted)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Formal assessment is based on two components: Five assignments, and seven mini quizzes. The nominal subject grade is a weighted sum of the assignment grades and the mini quiz grades: The weight for each assignment is 16%; the weight for each mini quiz is 20 / 7%. Final letter grades are decided in accordance with the descriptions provided in MIT Regulations of the Faculty and are informed by the nominal subject grade but also by instructor evaluation of student effort, independence, and progress.
 
