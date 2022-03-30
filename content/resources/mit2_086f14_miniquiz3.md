@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding nutshel
   on monte carlo integration.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/8462d4c095f2fc93b2bee7d0b4159f62_MIT2_086F14_MiniQuiz3.pdf
 file_type: application/pdf
+parent_uid: 5b481eff-157b-19d5-ed16-7c4b6220d00b
 resourcetype: Document
 title: '2.086 Numerical Computation for Mechanical Engineers, Mini Quiz 3: Nutshell
   on Monte Carlo Integration'
